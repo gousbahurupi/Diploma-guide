@@ -7,8 +7,6 @@ Diploma Guide is a website aimed at providing a centralized platform for diploma
 - Access to manuals for all semesters and subjects.
 - User-friendly interface for easy navigation and browsing.
 - Search functionality to quickly find specific manuals.
-- Option to filter manuals by semester, subject, or topic.
-- Bookmarking feature to save favorite manuals for future reference.
 - Regular updates to ensure availability of the latest manuals.
 
 ## Usage
